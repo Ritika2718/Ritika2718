@@ -1,4 +1,4 @@
-# Hi, I'm Ritika Anand 👋
+# Hi, I'm Ritika Anand 
 
 ### ECE @ VIT Chennai | C/C++ | Python | Embedded Systems | AI/ML | RTL
 
@@ -64,9 +64,9 @@ I'm interested in building reliable software and hardware systems and solving re
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🧠 Alzheimer's Disease Classification using MRI
+###  Alzheimer's Disease Classification using MRI
 
 Deep learning project for classifying MRI scans into **Normal, Mild Cognitive Impairment (MCI), and Alzheimer's Disease (AD)**.
 
@@ -85,15 +85,17 @@ Implemented and compared:
 
 ---
 
-### 🤖 SmartRover – Dual-Control Obstacle Avoiding Robot
+### SmartRover – Dual-Control Obstacle Avoiding Robot
 
 Built a dual-control robotic system using **MPU6050 gesture control** and **ESP8266-based mobile control**, with sensor-based obstacle detection.
 
 **Tech:** Embedded C, ESP8266, MPU6050, IR Sensors, Ultrasonic Sensors, Arduino
 
+🔗 [View Project](https://github.com/Ritika2718/SmartRover)
+
 ---
 
-### 🏠 Home Automation using 8051
+###  Home Automation using 8051
 
 Developed an occupancy-based home automation system using the **AT89C51 microcontroller**, sensors and automated lighting control.
 
@@ -101,7 +103,7 @@ Developed an occupancy-based home automation system using the **AT89C51 microcon
 
 ---
 
-### 📡 Wireless Data Transmission using Li-Fi
+###  Wireless Data Transmission using Li-Fi
 
 Developed a Li-Fi prototype for wireless data transmission using LED-based optical communication and evaluated link reliability under different channel conditions.
 
@@ -112,7 +114,7 @@ Developed a Li-Fi prototype for wireless data transmission using LED-based optic
 
 ---
 
-## 📚 Currently Strengthening
+##  Currently Strengthening
 
 - Data Structures & Algorithms
 - C / C++
@@ -126,7 +128,7 @@ Developed a Li-Fi prototype for wireless data transmission using LED-based optic
 
 ---
 
-## 🏆 Certifications
+##  Certifications
 
 - C/C++/Python – IIT Bombay
 - Microsoft Azure AI Fundamentals
@@ -140,7 +142,7 @@ Developed a Li-Fi prototype for wireless data transmission using LED-based optic
 
 ---
 
-## 📊 Coding & Problem Solving
+##  Coding & Problem Solving
 
 ### LeetCode
 
@@ -150,11 +152,11 @@ I regularly practice **Data Structures & Algorithms, problem solving and coding 
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
-- 💻 [GitHub](https://github.com/Ritika2718)
-- 🌐 [Portfolio](https://ritikawork.vercel.app)
-- 🧩 [LeetCode](https://leetcode.com/u/ritika2718/)
+-  [GitHub](https://github.com/Ritika2718)
+-  [Portfolio](https://ritikawork.vercel.app)
+-  [LeetCode](https://leetcode.com/u/ritika2718/)
 
 ---
 
